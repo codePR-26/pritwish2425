@@ -20,9 +20,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prithwish-bhowmik-a398b9228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirban mondal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anonymous_31.12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_frustrated_coder_404" height="30" width="40" /></a>
+    
+<a href="https://www.linkedin.com/in/prithwish-bhowmik-a398b9228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg(https://www.linkedin.com/in/prithwish-bhowmik-a398b9228/)" alt="prithwish bhowmik" height="30" width="40" /></a>
+    
+<a href="https://www.instagram.com/anonymous_31.12/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://www.instagram.com/anonymous_31.12/?hl=en)" alt="the_frustrated_coder_404" height="30" width="40" /></a>
+
 <a href="https://leetcode.com/u/Prith26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="developer_ani" height="30" width="40" /></a>
+
 <a href="https://www.geeksforgeeks.org/user/iamprithwish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="developey44n" height="30" width="40" /></a>
 </p>
 
